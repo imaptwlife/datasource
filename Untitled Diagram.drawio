@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T00:30:07.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="tuFfnix5keiTXi5BB9DO" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T00:44:14.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ihGqOCsOGS8bc9fGB7cQ" version="14.8.5" type="github">
   <diagram id="AUIJijng8iYauKghfq3N" name="Page-1">
     <mxGraphModel dx="1351" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,22 +19,22 @@
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-5" value="Occurrence Data Warehouse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="57" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-21" value="eCollect&lt;br&gt;- 林務局" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-21" value="eCollect&lt;br&gt;- 林務局" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="299" y="112" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-22" value="TBN&lt;br&gt;- 特生中心" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-22" value="TBN&lt;br&gt;- 特生中心" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="300" y="202" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-23" value="data.gov.tw" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-23" value="data.gov.tw" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="299" y="382" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-25" value="TaiBIF&lt;br&gt;- 科技部" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-25" value="TaiBIF&lt;br&gt;- 科技部" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="300" y="292" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-27" value="GBIF" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-27" value="GBIF" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="299" y="472" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-38" value="OBIS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-38" value="OBIS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="299" y="567" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-39" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
           <mxGeometry x="-17" y="40" width="120" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-41" value="Map Data Product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
-          <mxGeometry x="25" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-50" value="Static &lt;br&gt;Spatial&lt;br&gt;Map" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
           <mxGeometry x="5" y="54" width="80" height="80" as="geometry" />
@@ -85,35 +82,32 @@
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-19" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="84" y="535.5" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-20" value="公民科學" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-20" value="公民科學" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="84" y="611" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-24" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-24" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="84" y="691" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-6" target="g3Gz0Bv4BczgXTY8qNWK-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="514" y="96" width="120" height="250" as="geometry" />
+          <mxGeometry x="503" y="96" width="120" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-8" value="Occurrence Data Product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="554" y="56" width="40" height="20" as="geometry" />
+          <mxGeometry x="543" y="56" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=#D4E1F5;" vertex="1" parent="1">
-          <mxGeometry x="829" y="96" width="120" height="680" as="geometry" />
-        </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-9" value="Online Service System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="869" y="56" width="40" height="20" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="829" y="170" width="120" height="606" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-12" value="Biodiversity Data Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1035" y="56" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-43" value="開放資料&lt;br&gt;1,000萬+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="533" y="128" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-43" value="開放資料&lt;br&gt;1,000萬+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="522" y="128" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-44" value="開放資料集&lt;br&gt;1,000+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="533" y="228" width="76" height="76" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-44" value="開放資料集&lt;br&gt;1,000+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="522" y="228" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-4" target="g3Gz0Bv4BczgXTY8qNWK-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -121,13 +115,10 @@
             <mxPoint x="615" y="371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-65" value="Occurrence Data Portal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="849" y="111" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-65" value="Occurrence Data Portal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="849" y="202" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-66" value="Occurrence API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="849" y="201" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-6" target="g3Gz0Bv4BczgXTY8qNWK-7">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=-0.018;entryY=0.057;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-6" target="g3Gz0Bv4BczgXTY8qNWK-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="699" y="331" as="sourcePoint" />
             <mxPoint x="749" y="281" as="targetPoint" />
@@ -148,7 +139,7 @@
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-73" value="永續發展" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1015" y="676" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-74" value="Dataset &lt;br&gt;API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-74" value="API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="849" y="294" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-7">
@@ -187,8 +178,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-93" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="302" y="657" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-93" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="299" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-108" value="&lt;span style=&quot;text-indent: -0.38in&quot;&gt;生態調查資料&lt;/span&gt;&lt;br&gt;&lt;div class=&quot;O0&quot; style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0.38in ; text-indent: -0.38in&quot;&gt;&lt;span&gt;管理雲端工具&lt;/span&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/infrastructure/infrastructure_services.svg;rounded=1;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="196" y="327" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-109" value="" style="group;fontSize=14;fontColor=#4277BB;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="440" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-110" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/miscellaneous/scalable.svg;rounded=1;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-109">
+          <mxGeometry width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-111" value="資料標準&lt;br&gt;流通程序&lt;br&gt;授權規範&lt;br&gt;敏感資料" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/file_repository.svg;rounded=1;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-109">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-115" target="g3Gz0Bv4BczgXTY8qNWK-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-115" value="Online &lt;br&gt;Service &lt;br&gt;System" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/management/api_management.svg;rounded=1;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="859" y="46" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-120" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Map &lt;br&gt;Data &lt;br&gt;Product&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/applications/microservice.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=12;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="673" y="256" width="82" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
