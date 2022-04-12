@@ -1,52 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T23:43:47.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="2YLM742tEmOtEIyCHnMz" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T00:30:07.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="tuFfnix5keiTXi5BB9DO" version="14.8.5" type="github">
   <diagram id="AUIJijng8iYauKghfq3N" name="Page-1">
-    <mxGraphModel dx="1892" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-82" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="995" y="96" width="120" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-1" target="g3Gz0Bv4BczgXTY8qNWK-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="375" as="sourcePoint" />
-            <mxPoint x="130" y="325" as="targetPoint" />
+            <mxPoint x="95" y="351" as="sourcePoint" />
+            <mxPoint x="145" y="301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="233" y="120" width="120" height="675" as="geometry" />
+          <mxGeometry x="282" y="97" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-5" value="Occurrence Data Warehouse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="267" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="320" y="57" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-21" value="eCollect&lt;br&gt;- 林務局" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="246" y="135" width="80" height="80" as="geometry" />
+          <mxGeometry x="299" y="112" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-22" value="TBN&lt;br&gt;- 特生中心" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="247" y="225" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="202" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-23" value="data.gov.tw" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="246" y="405" width="80" height="80" as="geometry" />
+          <mxGeometry x="299" y="382" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-25" value="TaiBIF&lt;br&gt;- 科技部" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="247" y="315" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="292" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-27" value="GBIF" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="246" y="495" width="80" height="80" as="geometry" />
+          <mxGeometry x="299" y="472" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-38" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="246" y="590" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-38" value="OBIS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="299" y="567" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="603" y="365" width="120" height="430" as="geometry" />
+          <mxGeometry x="668" y="341" width="120" height="430" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
-          <mxGeometry x="-15" y="40" width="120" height="390" as="geometry" />
+          <mxGeometry x="-17" y="40" width="120" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-41" value="Map and Products&lt;br&gt;Generation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-41" value="Map Data Product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
           <mxGeometry x="25" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-50" value="Static &lt;br&gt;Spatial&lt;br&gt;Map" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
           <mxGeometry x="5" y="54" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-57" value="Theme Map&lt;br&gt;入侵 | 農地" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-57" value="Theme Map&lt;br&gt;入侵 | 農地" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
           <mxGeometry x="5" y="330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-64" value="Data Gap Map" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="g3Gz0Bv4BczgXTY8qNWK-39">
@@ -56,100 +59,136 @@
           <mxGeometry x="5" y="145" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="69" y="120" width="120" height="675" as="geometry" />
+          <mxGeometry x="54" y="96" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-2" value="Biodiversity Data Provider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="109" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="94" y="56" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-13" value="林務局" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="99" y="135" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="111" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-14" value="林試所" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="99" y="205" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="181" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-15" value="特生中心" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="99" y="275" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="251" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-16" value="海保署" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="99" y="345" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="321" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-17" value="營建署" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="99" y="415" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="391" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-18" value="中研院" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="99" y="485" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="461" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-19" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="99" y="559.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="535.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-20" value="公民科學" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="99" y="635" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="611" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-24" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="99" y="715" width="60" height="60" as="geometry" />
+          <mxGeometry x="84" y="691" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-6" target="g3Gz0Bv4BczgXTY8qNWK-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="433" y="120" width="120" height="250" as="geometry" />
+          <mxGeometry x="514" y="96" width="120" height="250" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-8" value="Occurrence Data Product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="473" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="554" y="56" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="748" y="120" width="120" height="250" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="829" y="96" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-9" value="Online Service System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="788" y="80" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="980" y="120" width="120" height="680" as="geometry" />
+          <mxGeometry x="869" y="56" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-12" value="Biodiversity Data Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="1035" y="56" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-43" value="開放資料&lt;br&gt;1,000萬+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="452" y="152" width="80" height="80" as="geometry" />
+          <mxGeometry x="533" y="128" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-44" value="地區物種&lt;br&gt;清單" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="452" y="252" width="76" height="76" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-44" value="開放資料集&lt;br&gt;1,000+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="533" y="228" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="g3Gz0Bv4BczgXTY8qNWK-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-4" target="g3Gz0Bv4BczgXTY8qNWK-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="445" as="sourcePoint" />
-            <mxPoint x="600" y="395" as="targetPoint" />
+            <mxPoint x="565" y="421" as="sourcePoint" />
+            <mxPoint x="615" y="371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-65" value="Online &lt;br&gt;Portal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="768" y="145" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-65" value="Occurrence Data Portal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="849" y="111" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-66" value="API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="768" y="255" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-66" value="Occurrence API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="849" y="201" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-6" target="g3Gz0Bv4BczgXTY8qNWK-7">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-6" target="g3Gz0Bv4BczgXTY8qNWK-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="618" y="355" as="sourcePoint" />
-            <mxPoint x="668" y="305" as="targetPoint" />
+            <mxPoint x="699" y="331" as="sourcePoint" />
+            <mxPoint x="749" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-40" target="g3Gz0Bv4BczgXTY8qNWK-7">
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-69" value="生態檢核" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="106" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-70" value="環境影響&lt;br&gt;評估" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="196" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-71" value="自然資源&lt;br&gt;管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="479" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-72" value="國土規劃" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="576" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-73" value="永續發展" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="676" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-74" value="Dataset &lt;br&gt;API" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="849" y="294" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="456" as="sourcePoint" />
+            <mxPoint x="995" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-79" value="Static Map Portal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="849" y="396" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-80" value="Thematic&amp;nbsp; Map &lt;br&gt;Portal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="849" y="671" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-40" target="g3Gz0Bv4BczgXTY8qNWK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-69" value="生態檢核" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="135" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-85" value="Temporal Spatial Map Portal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="849" y="486" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-70" value="環境影響&lt;br&gt;評估" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="225" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-86" value="Data Gap Map Portal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="849" y="576" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-71" value="自然資源&lt;br&gt;管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="315" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-87" value="公民科學" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="385" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-72" value="國土規劃" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="405" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-88" value="生物多樣性&lt;br&gt;研究" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-73" value="國土規劃" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="495" width="80" height="80" as="geometry" />
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-91" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g3Gz0Bv4BczgXTY8qNWK-1" target="g3Gz0Bv4BczgXTY8qNWK-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="470" as="sourcePoint" />
+            <mxPoint x="520" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="379" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g3Gz0Bv4BczgXTY8qNWK-93" value="..." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="302" y="657" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
